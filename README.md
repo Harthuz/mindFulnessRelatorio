@@ -1,1 +1,2 @@
 # mindFulnessRelatorio
+Este curso oferece uma introdução abrangente ao conceito de mindfulness, ensinando técnicas simples e eficazes para aumentar a atenção plena no dia a dia. Você aprenderá a lidar com o estresse, ansiedade e distrações através de exercícios práticos, como meditação e respiração consciente. Ao final do curso, você será capaz de aplicar essas práticas para melhorar sua concentração, reduzir tensões e cultivar uma mentalidade mais equilibrada e presente.
